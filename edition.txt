@@ -5,3 +5,4 @@ issue resolved
 Hotfix team's solution
 Emergency: Bug Found!
 hotfix my solution
+New function added
